@@ -1,1 +1,3 @@
-testando um pull vscode
+testando um pull vscode;
+pull funcionando;
+testando ultimo commit/push;
